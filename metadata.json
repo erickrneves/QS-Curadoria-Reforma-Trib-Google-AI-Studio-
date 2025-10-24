@@ -1,0 +1,5 @@
+{
+  "name": "Brazilian Tax Legislation Explorer",
+  "description": "An application to automatically search, download, organize, and view Brazilian tax legislation. The user provides a list of laws, and the system fetches, processes, and presents the data in an organized manner.",
+  "requestFramePermissions": []
+}
